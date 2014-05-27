@@ -67,14 +67,15 @@ statement is formulated. The problem identification generally happens via
 the issue tracker in GitHub. Once a problem statement is formulated a pull
 request for the document located in documents/wip should be issued. A second
 step is the creation of a solution proposal which may then be solicited
-to distributions for discussion. Once consensus is reached the solution is
+to distributions, developers, customers and other interested parties
+for discussion. Once consensus is reached the solution is
 committed to documents/specifications without additional changes. Changes
 to accepted solutions should only consist of trivial fixes for spelling and
 grammar as well as additions of new distributions pledging to support
 a given specification.
 
 The solicitation of a Problem Statement or a Solution Proposal should
-occur on a distribution public mailing list and a link to the thread
+occur on distribution or other public mailing lists and link to the threads
 should be included in the document.
 
 Unless specifically stated no document should become an accepted
